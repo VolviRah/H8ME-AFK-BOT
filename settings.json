@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "H8MEAFKBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "H8MEjava.aternos.me",
+    "port": 45012,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
